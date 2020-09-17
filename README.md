@@ -1,4 +1,4 @@
-# trabalho_final
+# Application that lists, registers, edits and deletes products and customers
 
 A new Flutter project.
 
